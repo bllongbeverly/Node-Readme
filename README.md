@@ -28,3 +28,31 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+### License
+
+MIT
+
+## Usage
+
+Node,
+github
+
+## Installation
+
+npm i inquirer@8.2.4
+index.js
+
+## Contributors
+
+Dannika Long,
+ChatGPT,
+Google-Node Inquirer,
+Bootcamp Module,
+Zoom-Instructor Caleb Crum
+
+
+## Contact for Questions
+
+Email: bllongbeverly@gmail.com 
+
+Github: https://github.com/bllongbeverly?tab=repositories
