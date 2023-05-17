@@ -1,6 +1,18 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+The Readme.md Node Generator is a command-line tool designed to simplify the process of creating and updating documentation for your projects. 
+
+
+## Installation
+
+```npm i inquirer@8.2.4```
+
+## Usage
+
+To start generator:
+`node index.js`
 
 
 ### User Story
@@ -28,19 +40,13 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+[Demo link:]https://drive.google.com/file/d/1wJGyDdPuPQVYVPTCLYi9_OcQmOYd46sT/view
+![screenshot](./assets/Screenshot%202023-05-16%20215648.png)
 ### License
 
 MIT
 
-## Usage
-
-Node,
-github
-
-## Installation
-
-npm i inquirer@8.2.4
-index.js
 
 ## Contributors
 
